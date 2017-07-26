@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="divider_color">#76787a</color>
+
+    <color name="bg_color">#F0F0F0</color>
+    <color name="button_color">#fefefe</color>
+    <color name="edit_text_color">#666d77</color>
+    <color name="drawercolor">#D9FFFFFF</color>
+    <color name="drawerline">#B3FFFFFF</color>
+    <color name="pass_lost_color">#6f6f6f</color>
+    <color name="header_background">#520000</color>
+    <string name="please_wait">Please wait&#8230;</string>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFF</color>
+    <color name="button">#feb211</color>
+    <color name="john">#fefaf5</color>
+    <color name="total">#ebdacb</color>
+
+    <color name="hintcolor">#0095da</color>
+    <color name="whitenew">#b5a7c6</color>
+
+    <color name="fbmcolor">#ffe44d</color>
+    <color name="black">#000</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey">#999999</color>
+    <color name="dark_blue">#376AAB</color>   //ram1
+    <color name="light_green">#03B3B3</color>
+    <color name="green">#029999</color>        //ram2
+    <color name="light_grey">#F5F5F5</color>
+    <color name="red">#DA5B76</color>
+    <color name="yellow">#F2DBBD</color>
+    <color name="yellownew">#e6d120</color>
+
+    <color name="pink_btn">#da5b76</color>
+    <color name="light_green_btn">#3cb878</color>
+    <color name="red_transperant">#CCDA5B76</color>
+    <color name="light_green_transperant">#cc3cb878</color>
+    <color name="checkboxcolor"> #6d6f74</color>
+    <color name="violet_btn">#8781bd</color>
+    <color name="green_btn">#006699</color>
+   <!-- <color name="menu_bg">#133648</color>-->
+    <color name="green_quiz">#006699</color>
+    <color name="green_dodont">#91E3AD</color>
+    <color name="green_darkdodont">#37AE8A</color>
+    <color name="green_color">#7CFC00</color>
+
+    <color name="fourth_color">#3ac962</color>
+
+    <color name="red_dodont">#EF8887</color>
+    <color name="red_darkdodont">#945265</color>
+
+    <color name="paragraphcolor">#656565</color>
+    <color name="firstitem">#ffffff</color>
+    <color name="seconditem">#f8f8f8</color>
+
+</resources>

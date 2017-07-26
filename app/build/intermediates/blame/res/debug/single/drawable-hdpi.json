@@ -1,0 +1,698 @@
+[
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msg.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\msg.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\comment_3x.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\comment_3x.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\create_order_drawer.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\create_order_drawer.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\three_line_nav.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\three_line_nav.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\white_box.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\white_box.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\return_order_drawer.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\return_order_drawer.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\company_3x.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\company_3x.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\news_feed_drawer.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\news_feed_drawer.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\action_bar.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\action_bar.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\no_image_ava1.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\no_image_ava1.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\company_3x.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\company_3x.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\navigation.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\navigation.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fb.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\fb.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\comment_3x.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\comment_3x.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\navigation.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\navigation.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\liked.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\liked.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash_new_bg.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\splash_new_bg.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\action_bar.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\action_bar.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\three_line_nav.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\three_line_nav.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\email_drawer.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\email_drawer.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\white_box.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\white_box.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\white_box.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\white_box.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\company_3x.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\company_3x.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\liked.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\liked.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\news_feed_drawer.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\news_feed_drawer.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\message_view.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\message_view.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\news_feed_drawer.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\news_feed_drawer.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash_new_bg.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\splash_new_bg.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fb.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\fb.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\no_image_ava1.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\no_image_ava1.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\return_order_drawer.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\return_order_drawer.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\create_order_drawer.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\create_order_drawer.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notify.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\notify.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\liked.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\liked.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\comment_3x.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\comment_3x.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\three_line_nav.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\three_line_nav.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fb.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\fb.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\email_drawer.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\email_drawer.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\email_drawer.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\email_drawer.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash_new_bg.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\splash_new_bg.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\no_image_ava1.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\no_image_ava1.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\create_order_drawer.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\create_order_drawer.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\return_order_drawer.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\return_order_drawer.png"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

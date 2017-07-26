@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OtpView"><attr name="android:inputType"/><attr name="android:textColor"/><attr format="color" name="text_background_color"/><attr format="string" name="otp"/></declare-styleable>
+    <string name="app_name">otpview</string>
+</resources>

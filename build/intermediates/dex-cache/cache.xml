@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\TabsWithSwipeGesture\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\TabsWithSwipeGesture\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_d9e708a6272c153fb18581c71ae5b1d699246042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\TabsWithSwipeGesture\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\TabsWithSwipeGesture\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_fe34d2ad23b0f6859157c3f16f97206dcf770e5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\TabsWithSwipeGesture\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="E:\TabsWithSwipeGesture\app\build\intermediates\pre-dexed\debug\volley_64ef2f42e4ba8480517880a320c0b50e9929bebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\TabsWithSwipeGesture\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="E:\TabsWithSwipeGesture\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_969099ee14100ac9a75cbe2d01cd3944f7f368c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SURAJ\.gradle\caches\modules-2\files-2.1\de.greenrobot\greendao\2.0.0\5f49dd477c1621dfaf0f7fe5d755fe4f07526af2\greendao-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f49dd477c1621dfaf0f7fe5d755fe4f07526af2">
+        <dex dex="E:\TabsWithSwipeGesture\app\build\intermediates\pre-dexed\debug\greendao-2.0.0_e72a0acf9ce74b6a4b1b494250f6ff967e0da1ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SURAJ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\TabsWithSwipeGesture\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_2c8b3a45140c2227f5f3b1dd042f3b2e458428f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\TabsWithSwipeGesture\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="E:\TabsWithSwipeGesture\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.0.0_50a3e2ca5e323fd029c1b7bd3ea2aa51e5dc3f9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SURAJ\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="E:\TabsWithSwipeGesture\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_314ca09a4bcb0c78b3995f900299757b391ae439.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SURAJ\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\TabsWithSwipeGesture\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_8872e11ca54ce8cc807dd50b5df133db5f30717c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\TabsWithSwipeGesture\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="E:\TabsWithSwipeGesture\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.0.0_45c546f9ef4c64a3ac4ab1f60aae446db5888a08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\TabsWithSwipeGesture\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="E:\TabsWithSwipeGesture\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.0.0_e8bd0124d5e20e256ab40517ff681ef08da2d6cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\TabsWithSwipeGesture\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\TabsWithSwipeGesture\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_f995e41b0643eec84189a64a5156e298de6e2586.jar" />
+    </item>
+
+</items>

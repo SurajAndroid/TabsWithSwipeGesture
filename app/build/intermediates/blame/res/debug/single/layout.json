@@ -1,0 +1,830 @@
+[
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feature_fragment.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\feature_fragment.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dealrow_item.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\dealrow_item.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scheduleadapter.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\scheduleadapter.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_new.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\activity_main_new.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_popular.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\fragment_popular.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dealrow_item.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\dealrow_item.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mobile_reg.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\mobile_reg.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scheduleadapter.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\scheduleadapter.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dealrow_item.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\dealrow_item.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\otp_layout.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\otp_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_new.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\activity_main_new.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_popular.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\fragment_popular.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feature_fragment.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\feature_fragment.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_activity.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\home_activity.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_layout.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\drawer_layout.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_popular.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\fragment_popular.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\otpview_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.github.mukeshsolanki\\android-otpview-pinview\\1.0.3\\res\\layout\\otpview_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_activity.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\home_activity.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feature_fragment.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\feature_fragment.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\drawer_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\drawer_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_top_rated.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\fragment_top_rated.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_top_rated.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\fragment_top_rated.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\otp_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\otp_layout.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_activity.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\home_activity.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_top_rated.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\fragment_top_rated.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\TabsWithSwipeGesture\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    }
+]

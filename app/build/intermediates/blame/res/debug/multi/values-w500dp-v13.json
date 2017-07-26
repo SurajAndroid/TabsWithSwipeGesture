@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\New folder\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w500dp\\values-w500dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 54,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "F:\\New folder (7)\\FBM_23_June_17_V(2.2)_FinalBackUp\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w500dp\\values-w500dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 54,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "E:\\TabsWithSwipeGesture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w500dp\\values-w500dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 54,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PinView"><attr format="integer" name="boxCount"/><attr format="dimension" name="boxHeight"/><attr format="dimension" name="boxRadius"/><attr format="dimension" name="boxMargin"/><attr format="integer" name="itemCount"/><attr format="dimension" name="itemSize"/><attr format="dimension" name="itemRadius"/><attr format="dimension" name="itemSpacing"/><attr format="dimension" name="borderWidth"/><attr format="reference|color" name="borderColor"/></declare-styleable>
+    <declare-styleable name="PinViewTheme"><attr format="reference" name="pinViewStyle"/></declare-styleable>
+    <dimen name="pv_pin_view_item_border_width">2dp</dimen>
+    <dimen name="pv_pin_view_item_radius">5dp</dimen>
+    <dimen name="pv_pin_view_item_size">48dp</dimen>
+    <dimen name="pv_pin_view_item_spacing">5dp</dimen>
+    <style name="PinWidget"/>
+    <style name="PinWidget.PinView" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@null</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:maxLines">1</item>
+    </style>
+</resources>
